@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "iyf",
+  "url": "iyf.tv",
+  "knowsAbout": [
+    "Free online video",
+    "HD video streaming",
+    "Copyright protection"
+  ],
+  "areaServed": [
+    "china"
+  ]
+}
